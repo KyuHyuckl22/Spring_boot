@@ -11,7 +11,7 @@ CHEF text
 LINK text 
 HIT int
  */
-@Entity(name="recipe")
+@Entity(name = "recipe")
 @Data
 public class RecipeEntity {
    @Id
