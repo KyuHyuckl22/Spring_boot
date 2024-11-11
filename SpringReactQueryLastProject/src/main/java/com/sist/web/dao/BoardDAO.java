@@ -18,3 +18,4 @@ public interface BoardDAO extends JpaRepository<ReactBoardEntity, Integer>{
     
     // count() , save() , delete() 
 }
+ 
